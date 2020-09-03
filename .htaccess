@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^(.*)$ /laravelproject/public/index.php/$1 [L]
